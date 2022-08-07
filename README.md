@@ -3,9 +3,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusukedayo&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yusukedayo&theme=solarized_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yusukedayo&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yusukedayo&theme=solarized_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yusukedayo&theme=solarized_dark&utcOffset=8)
 
 # Skills
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusukedayo&layout=compact&theme=dracula)
