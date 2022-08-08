@@ -3,7 +3,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusukedayo&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yusukedayo&theme=solarized_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yusukedayo&theme=solarized_dark) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusukedayo&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Skills
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusukedayo&layout=compact&theme=dracula)
